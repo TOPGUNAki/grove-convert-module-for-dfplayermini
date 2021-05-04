@@ -2,7 +2,7 @@
 
 DFPlayer mini Grove変換モジュール
 
-![image](https://user-images.githubusercontent.com/10735253/117022206-02645800-ad33-11eb-8ecc-d1633bf7862f.png)
+<img src="https://user-images.githubusercontent.com/10735253/117022206-02645800-ad33-11eb-8ecc-d1633bf7862f.png" width="300">
 
 ## 特長
 DFPlayer miniを差し込むことにより、ホストマイコンからGroveコネクタ経由でDFPlayer miniを制御できます。  
@@ -12,14 +12,16 @@ DFPlayer miniを差し込むことにより、ホストマイコンからGrove�
 
 ## デモ
 ### micro:bit
-![image](https://user-images.githubusercontent.com/10735253/117021939-c5986100-ad32-11eb-85f1-0c8cbaddfda7.png)
+<img src="https://user-images.githubusercontent.com/10735253/117021939-c5986100-ad32-11eb-85f1-0c8cbaddfda7.png" width="520">
 
-![https://makecode.microbit.org/_3q2T52P9qFmp](https://user-images.githubusercontent.com/10735253/117020070-0becc080-ad31-11eb-9d93-46ee3ad06dcd.png)  
+<img src="https://user-images.githubusercontent.com/10735253/117020070-0becc080-ad31-11eb-9d93-46ee3ad06dcd.png" width="520">
+
 [micro:bit プログラム例](https://makecode.microbit.org/_3q2T52P9qFmp)
 
 ## 注意点
 DFPlayer miniのピンソケットが若干狭いので、少し広げて接続してください。
-![image](https://user-images.githubusercontent.com/10735253/117022129-f11b4b80-ad32-11eb-893c-40a16de51a9e.png)
+
+<img src="https://user-images.githubusercontent.com/10735253/117022129-f11b4b80-ad32-11eb-893c-40a16de51a9e.png" width="300">
 
 ## スペック
  - 基板サイズ(コネクタ込): 40 × 24 × 12mm  
