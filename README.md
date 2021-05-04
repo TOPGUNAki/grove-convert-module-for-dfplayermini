@@ -2,6 +2,8 @@
 
 DFPlayer mini Grove変換モジュール
 
+![image](https://user-images.githubusercontent.com/10735253/117021939-c5986100-ad32-11eb-85f1-0c8cbaddfda7.png)
+
 ## 特長
 DFPlayer miniを差し込むことにより、ホストマイコンからGroveコネクタ経由でDFPlayer miniを制御できます。  
 基板のスルーホールにスピーカーを直接つないだり、φ3.5mmステレオジャック経由で外部のスピーカーと接続できます。  
